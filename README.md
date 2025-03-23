@@ -1,4 +1,3 @@
 # ballsim-mobile
 A ball simulation for your Android phone. 
-Install in a couple of clicks, or use this link to download to your phone.
-[https://median.co/share/ayrqbk#apk]
+[FOR DOWNLOAD INSTRUCTIONS, CLICK HERE](https://github.com/detectivesheepy/ballsim-mobile/wiki/Download-instructions#download-instructions)
